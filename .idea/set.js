@@ -48,7 +48,7 @@ const object2 = {
     fouth: 'e',
 }
 
-let x;
+let x = 'hey there, try committing this';
 
 //const full = Object.assign({}, object1, object2)
 const full = {...object1, ...object2}
