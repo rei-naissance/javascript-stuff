@@ -48,6 +48,8 @@ const object2 = {
     fouth: 'e',
 }
 
+let x;
+
 //const full = Object.assign({}, object1, object2)
 const full = {...object1, ...object2}
 
